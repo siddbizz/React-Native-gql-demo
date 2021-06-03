@@ -2,7 +2,7 @@
 <hr/>
 <div>Demo project React native with github graphql api </div>
 <hr/>
-<div>make sure to create pearsonal git token from your github profile</div>
+<div>make sure to create pearsonal git token from your github profile, you will need it while login</div>
 <hr/>
 <a href="https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token">Steps to create a git token, follow this link</a>
 <hr/>
