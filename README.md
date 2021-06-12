@@ -8,5 +8,5 @@
 <hr/>
 <div>App preview</div>
 <img src="https://user-images.githubusercontent.com/39961439/120681842-6f494a00-c4b9-11eb-9e43-550ec9cdec02.gif"
-  height="500px" width="400px"
+  height="500px"
  />
